@@ -66,6 +66,18 @@ Vendor-wise totals are calculated
 
 Final consolidated output is generated
 
+## Screenshots
+
+### Power Query Applied Steps
+![Power Query Steps](screenshots/index.png)
+
+### Final Consolidated Output
+![Final Output](screenshots/reference.png)
+
+### Source Folder Structure
+![Folder Structure](screenshots/folder_structure.png)
+
+
 **Technical Highlights**
 
 Built using Power Query (M Language)
