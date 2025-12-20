@@ -68,14 +68,12 @@ Final consolidated output is generated
 
 ## Screenshots
 
-### Power Query Applied Steps
-![Power Query Steps](screenshots/index.png)
+### Power Query Workflow
+![Power Query Workflow](screenshots/Index.png)
 
-### Final Consolidated Output
-![Final Output](screenshots/reference.png)
+### Reference / Final Output
+![Reference Output](screenshots/Reference.png)
 
-### Source Folder Structure
-![Folder Structure](screenshots/folder_structure.png)
 
 
 **Technical Highlights**
