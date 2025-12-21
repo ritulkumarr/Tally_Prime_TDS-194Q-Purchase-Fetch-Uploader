@@ -71,7 +71,7 @@ Final consolidated output is generated
 ###Raw Data
 ![Raw Data](screenshots/raw.png)
 
-### Power Query Workflow
+### Detailed View
 ![Reference Output](screenshots/Reference1.png)
 
 ### Reference / Final Output
