@@ -68,12 +68,14 @@ Final consolidated output is generated
 
 ## Screenshots
 
-### Power Query Workflow
-![Power Query Workflow](screenshots/Index2.png)
+###Raw Data
+![Raw Data](screenshots/raw.png)
 
-### Reference / Final Output
+### Power Query Workflow
 ![Reference Output](screenshots/Reference1.png)
 
+### Reference / Final Output
+![Power Query Workflow](screenshots/Index2.png)
 
 
 **Technical Highlights**
