@@ -69,10 +69,10 @@ Final consolidated output is generated
 ## Screenshots
 
 ### Power Query Workflow
-![Power Query Workflow](screenshots/Index.png)
+![Power Query Workflow](screenshots/Index2.png)
 
 ### Reference / Final Output
-![Reference Output](screenshots/Reference.png)
+![Reference Output](screenshots/Reference1.png)
 
 
 
